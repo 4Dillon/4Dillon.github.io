@@ -8,3 +8,9 @@ body {
     background-color: #000;
     background-image: url ("background1.png");
    }
+
+.container {
+    width: 800px;
+    min-height: 800px;
+    border: 2px solid gray;
+}
