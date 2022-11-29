@@ -2,6 +2,7 @@
 
 body {
     font-family: 'PT Sans', sans-serif;  
+    padding: 100px 0;
 }
 
 body {
@@ -12,5 +13,7 @@ body {
 .container {
     width: 800px;
     min-height: 800px;
-    border: 2px solid gray;
+    border: 15px solid gray;
+    margin: 0 auto;
+    background: gray;
 }
