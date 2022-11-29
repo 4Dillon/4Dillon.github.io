@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
 
 body {
@@ -10,3 +11,10 @@ body {
 
 
 
+=======
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    background-image: url("D:\devdill DevOps\4Dillon.github.io\images\background1.jpg.png");
+>>>>>>> 7ec0ce3cdd959254da06f5b56ddc41a37b56eaf4
